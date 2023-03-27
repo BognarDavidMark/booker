@@ -1,0 +1,6 @@
+[submodule "bookerapi"]
+	path = bookerapi
+	url = https://github.com/BognarDavidMark/bookerapi.git
+[submodule "bookermobil"]
+	path = bookermobil
+	url = https://github.com/BognarDavidMark/bookermobil.git
